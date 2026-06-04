@@ -1,0 +1,21 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Year of Release : 1999</text>
+		</text>
+		<text name="info2" extra="true">
+			<text></text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Mr.Boom is a Bomberman clone for the RetroArch platform</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Mr.Boom supports up to 8 players</text>
+		</text>
+	</view>
+	
+</theme>

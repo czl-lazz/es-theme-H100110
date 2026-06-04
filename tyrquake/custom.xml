@@ -1,0 +1,30 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Developer : id Software</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Year of Release : 1996</text>
+		</text>
+		<text name="info3" extra="true">
+			<text></text>
+		</text>
+		<text name="info4" extra="true">
+			<text>The successor to Doom, Quake built upon the technology and</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>gameplay of its predecessor.  Unlike the Doom engine before</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>it, the Quake engine offered full real-time 3D rendering</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>and had early support for 3D acceleration through OpenGL.</text>
+		</text>
+	</view>
+	
+</theme>

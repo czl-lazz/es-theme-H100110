@@ -1,0 +1,50 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true">
+			<text>Release Date: March 16, 1999</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Developer: SNK</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>CPU: Toshiba TLCS900H core (16-bit)</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Memory: 12 k for 900H, 4 k for Z80</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>Graphics: 160x152 (256x256 virtual screen)</text>
+		</text>
+
+		<text name="info6" extra="true">
+			<text>Sound: SN76489 variant</text>
+		</text>
+
+		<text name="info7" extra="true">
+			<text>Media: ROM cartridge</text>
+		</text>
+		<text name="info8" extra="true">
+			<text></text>
+		</text>
+		<text name="info9" extra="true">
+			<text>The Neo Geo Pocket Color is a 16-bit color handheld video game console.</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>It is a successor to the Neo Geo Pocket handheld and is fully backward</text>
+		</text>
+		<text name="info11" extra="true">
+			<text>compatible.</text>
+		</text>
+
+
+	</view>
+
+</theme>

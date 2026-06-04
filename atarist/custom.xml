@@ -1,0 +1,49 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true">
+			<text>Release Date: June 1985</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Developer: Atari Corporation</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>CPU: Motorola 680x0 @ 8 MHz and higher</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Memory: 512 KBs to 4 MB</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>Graphics: 60 Hz NTSC, 50 Hz PAL, 71.2 Hz monochrome</text>
+		</text>
+
+		<text name="info6" extra="true">
+			<text>Sound: Yamaha YM2149</text>
+		</text>
+
+		<text name="info7" extra="true">
+			<text>Media: 3.5" Floppy</text>
+		</text>
+		<text name="info8" extra="true">
+			<text></text>
+		</text>
+		<text name="info9" extra="true">
+			<text>The Atari ST is a line of home computers from Atari Corporation</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>It is the first personal computer to come with a bitmapped color GUI,</text>
+		</text>
+		<text name="info11" extra="true">
+			<text>using a version of Digital Research's GEM released in February 1985.</text>
+		</text>
+
+	</view>
+
+</theme>

@@ -1,0 +1,46 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true">
+			<text>Release Date: October 28, 1998</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Developer: SNK</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>CPU: Toshiba TLCS900H</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Memory: 4-bit</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>Graphics: 256×256</text>
+		</text>
+
+		<text name="info6" extra="true">
+			<text>Sound: Z80 8-bit</text>
+		</text>
+
+		<text name="info7" extra="true">
+			<text>Media: ROM cartridge</text>
+		</text>
+		<text name="info8" extra="true">
+			<text></text>
+		</text>
+		<text name="info9" extra="true">
+			<text>The Neo Geo Pocket is a monochrome handheld game console </text>
+		</text>
+		<text name="info10" extra="true">
+			<text>released by SNK and is part of the Neo Geo family. </text>
+		</text>
+	</view>
+
+
+</theme>

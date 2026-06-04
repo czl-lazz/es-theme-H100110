@@ -1,0 +1,55 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true">
+			<text>Release Date: March 1991</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Developer: Commodore International</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>CPU: Motorola 68000 @ 7 MHz</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Memory: 1 MB</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>Graphics: 12-bit color palette</text>
+		</text>
+
+		<text name="info6" extra="true">
+			<text>Sound: 4x 8-bit PCM channels</text>
+		</text>
+
+		<text name="info7" extra="true">
+			<text>Media: CD-ROM</text>
+		</text>
+
+		<text name="info8" extra="true">
+			<text></text>
+		</text>
+
+		<text name="info9" extra="true">
+			<text>The CDTV (from Commodore Dynamic Total Vision, later treated as a </text>
+
+		</text>
+
+		<text name="info10" extra="true">
+			<text>backronym for CD Television)is a home multimedia entertainment and </text>
+		</text>
+
+		<text name="info11" extra="true">
+			<text>video game console – convertible into a full-fledged PC.</text>
+		</text>
+
+	</view>
+
+
+</theme>

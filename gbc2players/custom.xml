@@ -1,0 +1,50 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true">
+			<text>Release Date: October 21, 1998</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Developer: Nintendo</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>CPU: Sharp LR35902</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Memory: 32 KB plus 16 KB VRAM</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>Graphics: N/A</text>
+		</text>
+
+		<text name="info6" extra="true">
+			<text>Sound: 4 channel mono</text>
+		</text>
+
+		<text name="info7" extra="true">
+			<text>Media: Cartridge</text>
+		</text>
+		<text name="info8" extra="true">
+			<text></text>
+		</text>
+		<text name="info9" extra="true">
+			<text>The Game Boy Color, is the successor to the original Game Boy.</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>The Game Boy Color, as suggested by the name, features a color screen,</text>
+		</text>
+		<text name="info11" extra="true">
+			<text>but no backlight. It is slightly thicker and taller than the Game Boy Pocket.</text>
+		</text>
+
+	</view>
+
+
+</theme>

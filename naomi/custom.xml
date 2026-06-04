@@ -1,0 +1,47 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true">
+			<text>Release Date: Varies</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Developer: Sega</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>CPU: Hitachi SH-4 @ 200 MHz</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Memory: 32 MB</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>Graphics: NEC-VideoLogic PowerVR 2</text>
+		</text>
+
+		<text name="info6" extra="true">
+			<text>Sound: Yamaha AICA</text>
+		</text>
+
+		<text name="info7" extra="true">
+			<text>Media: ROM board</text>
+		</text>
+		<text name="info8" extra="true">
+			<text></text>
+		</text>
+		<text name="info9" extra="true">
+			<text>The NAOMI (New Arcade Operation Machine Idea) is the successor to</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>the Sega Model 3.</text>
+		</text>
+
+	</view>
+
+
+</theme>

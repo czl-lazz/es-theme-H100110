@@ -1,0 +1,54 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true">
+			<text>Release Date: June 1977</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Developer: Apple Computer, Inc.</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>CPU: MOS Technology 6502</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Memory: 4KB ~ 64KB</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>Graphics: Lo-res (16-color), Hi-res (6-color)</text>
+		</text>
+
+		<text name="info6" extra="true">
+			<text>Sound: 1-bit speaker (built-in)</text>
+		</text>
+
+		<text name="info7" extra="true">
+			<text>Media: Disk II (5.25-inch, 140KB, Apple)</text>
+		</text>
+
+		<text name="info8" extra="true">
+			<text></text>
+		</text>
+
+		<text name="info9" extra="true">
+			<text>The Apple II (stylized as apple ][) is an 8-bit home computer</text>
+		</text>
+
+		<text name="info10" extra="true">
+			<text>and one of the world's first highly successful mass-produced</text>
+		</text>
+
+		<text name="info11" extra="true">
+			<text>microcomputer products.</text>
+		</text>
+
+	</view>
+
+
+</theme>

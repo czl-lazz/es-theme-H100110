@@ -1,0 +1,44 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Release Date: October 18, 1985</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Developer: Nintendo</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>CPU: Ricoh 2A03 (NTSC) or Ricoh 2A07 (PAL)</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Memory: 2 KB RAM plus 2 KB video RAM</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>Graphics: RP2C02 (NTSC) or RP2C07 (PAL) PPU</text>
+		</text>
+
+		<text name="info6" extra="true">
+			<text>Sound: PSG 5 channel mono</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Media: Cartridge</text>
+		</text>
+		<text name="info8" extra="true">
+			<text></text>
+		</text>
+		<text name="info9" extra="true">
+			<text>The Nintendo Entertainment System is an 8-bit video game console.</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>In most of Asia, it was released as the Family Computer (Famicom).</text>
+		</text>
+		<text name="info11" extra="true">
+			<text>In South Korea, it was known as the Hyundai Comboy.</text>
+		</text>
+	</view>
+</theme>

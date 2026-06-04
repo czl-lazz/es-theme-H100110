@@ -1,0 +1,47 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true">
+			<text>Release Date: December 30, 2000</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Developer: Bandai</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>CPU: SPGY-1002</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Memory: 64Kbyte VRAM/WRAM</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>Graphics: TFT LCD 224 × 144</text>
+		</text>
+
+		<text name="info6" extra="true">
+			<text>Sound: 4 PCM channels</text>
+		</text>
+
+		<text name="info7" extra="true">
+			<text>Media: ROM cartridge</text>
+		</text>
+		<text name="info8" extra="true">
+			<text></text>
+		</text>
+		<text name="info9" extra="true">
+			<text>WonderSwan Color is a Game Boy Advance competitor running 16-bit color</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>games, better or worse than SNES.  In addition to color screen, it has</text>
+		</text>
+		<text name="info11" extra="true">
+			<text>a memory of 512kbit, which allows the creation of more complex games.</text>
+		</text>
+	</view>
+</theme>

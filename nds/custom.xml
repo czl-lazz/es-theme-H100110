@@ -1,0 +1,42 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Release Date: November 21, 2004</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Developer: Nintendo</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>CPU: Two ARM architecture processors</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Memory: 4 MB RAM</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>Graphics: Two TFT LCD, 256 × 192 pixels</text>
+		</text>
+
+		<text name="info6" extra="true">
+			<text>Media: Nintendo game card, ROM cartridge</text>
+		</text>
+		<text name="info8" extra="true">
+			<text></text>
+		</text>
+		<text name="info9" extra="true">
+			<text>The Nintendo DS, or simply DS, is a dual-screen handheld game console.</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>The DS introduced distinctive new features to handheld gaming: two LCD</text>
+		</text>
+		<text name="info11" extra="true">
+			<text>screens working in tandem, a built-in microphone, and support for wireless.</text>
+		</text>
+
+	</view>
+</theme>

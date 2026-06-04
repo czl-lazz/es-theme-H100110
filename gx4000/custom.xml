@@ -1,0 +1,51 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true">
+			<text>Release Date: September 1990</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Developer: Amstrad</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>CPU: Zilog Z80 @ 4 MHz</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Memory: 64 kB</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>Graphics: 12-bit RGB</text>
+		</text>
+
+		<text name="info6" extra="true">
+			<text>Sound: AY-3-8912 chip</text>
+		</text>
+
+		<text name="info7" extra="true">
+			<text>Media: ROM Cartridge</text>
+		</text>
+		<text name="info8" extra="true">
+			<text></text>
+		</text>
+
+		<text name="info9" extra="true">
+			<text>The GX4000 is a video game console that was manufactured by Amstrad.</text>
+		</text>
+
+		<text name="info10" extra="true">
+			<text>It was the company's short-lived attempt to enter the video game market.</text>
+		</text>
+		<text name="info11" extra="true">
+			<text>The GX4000 shared hardware architecture with Amstrad's CPC Plus.</text>
+		</text>
+
+	</view>
+
+</theme>
