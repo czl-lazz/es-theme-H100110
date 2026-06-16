@@ -16,6 +16,7 @@
 			<zIndex>75</zIndex>
 		</carousel>
 		<text name="systemInfo">
+			<size>1 0.05</size>
 			<pos>0.3 0.569</pos>
 			<backgroundColor>00000000</backgroundColor>
 			<color>ECECEC</color>
@@ -23,7 +24,7 @@
 			<fontSize>0.017</fontSize>
 		</text>
 		<image name="background" extra="true">
-			<size>0 1</size>
+			<size>1 1</size>
 			<pos>0.5 0.5</pos>
 			<origin>0.5 0.5</origin>
 		</image>
