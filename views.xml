@@ -18,12 +18,20 @@
 			<size>0.12 0.04</size>
 		</text>
 
+		<text name="md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount, md_lbl_favorite">
+			<visible>false</visible>
+		</text>
+
 		<text name="md_rating, md_developer, md_publisher, md_genre, md_players, md_playcount, md_favorite">
 			<color>DFDCDC</color>
 			<forceUppercase>1</forceUppercase>
 			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
 			<fontSize>0.02</fontSize>
 			<size>0.14 0.04</size>
+		</text>
+
+		<text name="md_developer, md_publisher, md_genre, md_players, md_playcount, md_favorite">
+			<visible>false</visible>
 		</text>
 
 		<text name="md_description">
@@ -39,6 +47,10 @@
 			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
 			<fontSize>0.02</fontSize>
 			<size>0 0.04</size>
+		</datetime>
+
+		<datetime name="md_lastplayed">
+			<visible>false</visible>
 		</datetime>
 
 		<image name="header" extra="true">
