@@ -46,13 +46,20 @@
 
 	<view name="screen">
 		<text name="clock">
+			<origin>0.5 0.5</origin>
 			<color>777777FF</color>
-			<fontSize>0.035</fontSize>
-			<pos>0.01 0.936</pos>
-			<size>0.09 0.058</size>
-			<alignment>right</alignment>
+			<fontSize>0.075</fontSize>
+			<pos>1.5 0.5</pos>
+			<size>0.45 0.15</size>
+			<alignment>center</alignment>
 			<verticalAlignment>center</verticalAlignment>
 			<fontPath>./../fonts/conthrax-sb.ttf</fontPath>
 		</text>
+		<image name="background" extra="true">
+			<size>1 1</size>
+			<pos>1 0</pos>
+			<origin>0 0</origin>
+			<path>./../pantas/pantas.png</path>
+		</image>
 	</view>
 </theme>

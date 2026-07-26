@@ -51,6 +51,11 @@
       <showSnapshotNoVideo>true</showSnapshotNoVideo>
       <showSnapshotDelay>true</showSnapshotDelay>
     </video>
+    <image name="md_mix">
+      <pos>1.5 0.5</pos>
+      <maxSize>1 1</maxSize>
+      <origin>0.5 0.5</origin>
+    </image>
     <text name="md_lbl_rating">
       <pos>10 0</pos>
     </text>
