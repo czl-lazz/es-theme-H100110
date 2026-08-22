@@ -54,12 +54,22 @@
 			<alignment>center</alignment>
 			<verticalAlignment>center</verticalAlignment>
 			<fontPath>./../fonts/conthrax-sb.ttf</fontPath>
+			<zIndex>10</zIndex>
 		</text>
 		<image name="background" extra="true">
 			<size>1 1</size>
 			<pos>1 0</pos>
 			<origin>0 0</origin>
 			<path>./../pantas/pantas.png</path>
+			<zIndex>-100</zIndex>
 		</image>
+		<batteryIndicator name="batteryIndicator">
+			<pos>1.88 0.025</pos>
+			<size>0.10 0.055</size>
+			<itemSpacing>0.012</itemSpacing>
+			<horizontalAlignment>right</horizontalAlignment>
+			<color>FFFFFFFF</color>
+			<zIndex>20</zIndex>
+		</batteryIndicator>
 	</view>
 </theme>
