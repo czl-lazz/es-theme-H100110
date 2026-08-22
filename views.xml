@@ -438,6 +438,122 @@
 		</imagegrid>
 	</customView>
 
+	<!-- H100110 detailed view: logical upper screen plus physical lower media screen. -->
+	<view name="basic, detailed">
+		<text name="system_name_1, system_name_2" extra="true">
+			<text></text>
+			<forceUppercase>true</forceUppercase>
+			<size>0.45 0.06</size>
+			<color>DFDCDC</color>
+			<fontPath>./_inc/fonts/opensans-light.ttf</fontPath>
+			<fontSize>0.045</fontSize>
+			<alignment>right</alignment>
+		</text>
+		<text name="system_name_1" extra="true">
+			<pos>0.52 0.015</pos>
+		</text>
+		<text name="system_name_2" extra="true">
+			<pos>0.52 0.07</pos>
+			<color>B8B6B6</color>
+		</text>
+	</view>
+
+	<view name="basic">
+		<textlist name="gamelist">
+			<pos>0.05 0.20</pos>
+			<size>0.90 0.70</size>
+			<alignment>center</alignment>
+			<horizontalMargin>0.01</horizontalMargin>
+		</textlist>
+	</view>
+
+	<view name="detailed">
+		<image name="lower-media-background" extra="true">
+			<pos>1 0</pos>
+			<origin>0 0</origin>
+			<size>1 1</size>
+			<path>./_inc/images/space.png</path>
+			<color>000000FF</color>
+			<zIndex>-100</zIndex>
+		</image>
+
+		<textlist name="gamelist">
+			<pos>0.035 0.20</pos>
+			<size>0.42 0.70</size>
+			<alignment>left</alignment>
+			<horizontalMargin>0.012</horizontalMargin>
+		</textlist>
+
+		<image name="md_image">
+			<visible>true</visible>
+			<pos>0.72 0.37</pos>
+			<maxSize>0.46 0.34</maxSize>
+			<origin>0.5 0.5</origin>
+		</image>
+
+		<text name="md_lbl_players">
+			<visible>true</visible>
+			<pos>0.50 0.57</pos>
+			<size>0.08 0.04</size>
+		</text>
+		<text name="md_players">
+			<visible>true</visible>
+			<pos>0.58 0.57</pos>
+			<size>0.08 0.04</size>
+		</text>
+		<text name="md_lbl_releasedate">
+			<visible>true</visible>
+			<pos>0.66 0.57</pos>
+			<size>0.13 0.04</size>
+		</text>
+		<datetime name="md_releasedate">
+			<visible>true</visible>
+			<pos>0.79 0.57</pos>
+			<size>0.18 0.04</size>
+		</datetime>
+		<text name="md_lbl_genre">
+			<visible>true</visible>
+			<pos>0.50 0.62</pos>
+			<size>0.10 0.04</size>
+		</text>
+		<text name="md_genre">
+			<visible>true</visible>
+			<pos>0.60 0.62</pos>
+			<size>0.37 0.04</size>
+		</text>
+
+		<text name="md_description">
+			<visible>true</visible>
+			<pos>0.50 0.68</pos>
+			<size>0.47 0.22</size>
+			<fontSize>0.016</fontSize>
+		</text>
+
+		<text name="md_lbl_rating, md_lbl_developer, md_lbl_publisher, md_lbl_lastplayed, md_lbl_playcount, md_lbl_favorite, md_developer, md_publisher, md_playcount, md_favorite">
+			<visible>false</visible>
+		</text>
+		<rating name="md_rating">
+			<visible>false</visible>
+		</rating>
+		<datetime name="md_lastplayed">
+			<visible>false</visible>
+		</datetime>
+
+		<video name="md_video">
+			<visible>true</visible>
+			<pos>1.5 0.5</pos>
+			<origin>0.5 0.5</origin>
+			<maxSize>1 1</maxSize>
+			<delay>2</delay>
+			<snapshotSource>mix</snapshotSource>
+			<showSnapshotDelay>true</showSnapshotDelay>
+			<showSnapshotNoVideo>true</showSnapshotNoVideo>
+			<loops>-1</loops>
+			<effect>none</effect>
+			<zIndex>100</zIndex>
+		</video>
+	</view>
+
 	<customView name="Detailed No Video" inherits="detailed" displayName="${NoVideoDetailsViewName}">
 		<video name="md_video">
 			<pos>1 1</pos>
