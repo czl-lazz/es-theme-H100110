@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<!--
+		Global fallback used when no ROM platform survives system scanning.
+		It must remain independent of platform-specific variables because no SystemData
+		exists in that state.
+	-->
+	<view name="screen">
+		<controllerActivity name="controllerActivity">
+			<itemSpacing>0.003</itemSpacing>
+			<color>FFFFFF80</color>
+			<activityColor>3030FFD0</activityColor>
+			<hotkeyColor>3030FFD0</hotkeyColor>
+		</controllerActivity>
+
+		<text name="clock">
+			<origin>0.5 0.5</origin>
+			<color>777777FF</color>
+			<fontSize>0.075</fontSize>
+			<pos>1.5 0.6</pos>
+			<size>0.45 0.15</size>
+			<alignment>center</alignment>
+			<verticalAlignment>center</verticalAlignment>
+			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
+			<zIndex>10</zIndex>
+		</text>
+
+		<image name="background" extra="true">
+			<size>1 1</size>
+			<pos>1 0</pos>
+			<origin>0 0</origin>
+			<path>./_inc/pantas/pantas.png</path>
+			<zIndex>-100</zIndex>
+		</image>
+
+		<batteryIndicator name="batteryIndicator">
+			<pos>1.88 0.025</pos>
+			<size>0.10 0.055</size>
+			<itemSpacing>0.012</itemSpacing>
+			<horizontalAlignment>right</horizontalAlignment>
+			<color>FFFFFFFF</color>
+			<zIndex>20</zIndex>
+		</batteryIndicator>
+	</view>
+
+	<view name="menu">
+		<text name="systemInfo">
+			<pos>0.0 0.61</pos>
+			<backgroundColor>00000000</backgroundColor>
+			<color>ECECEC</color>
+			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
+			<fontSize>0.02</fontSize>
+		</text>
+		<menuText name="menufooter">
+			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
+			<fontSize>0.02</fontSize>
+			<color>777777FF</color>
+		</menuText>
+		<menuText name="menutext">
+			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
+			<fontSize>0.023</fontSize>
+			<color>DFDCDC</color>
+			<separatorColor>555555FF</separatorColor>
+			<selectorColor>006ca3</selectorColor>
+			<selectedColor>FFFFFF</selectedColor>
+		</menuText>
+		<menuTextSmall name="menutextsmall">
+			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
+			<fontSize>0.028</fontSize>
+			<color>deec00</color>
+		</menuTextSmall>
+		<menuText name="menutitle">
+			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
+			<fontSize>0.037</fontSize>
+			<color>DFECFA</color>
+		</menuText>
+		<menuBackground name="menubg">
+			<color>2D2C2C</color>
+			<path>./_inc/images/frame.png</path>
+			<fadePath>./_inc/images/fond_menu.png</fadePath>
+		</menuBackground>
+	</view>
+</theme>
