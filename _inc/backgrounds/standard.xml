@@ -2,6 +2,7 @@
 	<formatVersion>7</formatVersion>
 	<view name="system">
 		<image name="background" extra="true">
+			<path>./../images/default-fond.jpg</path>
 			<path>./../../${system.theme}/art/fond.jpg</path>
 			<pos>0 0</pos>
 			<origin>0 0</origin>
@@ -11,6 +12,7 @@
 	</view>
 	<view name="basic, detailed, grid">
 		<image name="background" extra="true">
+			<path>./../images/default-fond.jpg</path>
 			<path>./../../${system.theme}/art/fond.jpg</path>
 			<pos>0 0</pos>
 			<origin>0 0</origin>

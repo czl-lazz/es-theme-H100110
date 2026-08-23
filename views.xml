@@ -441,6 +441,7 @@
 	<!-- H100110 lower-screen fallback is independent of the selected background subset. -->
 	<view name="basic, detailed, grid">
 		<image name="lower-system-background" extra="true">
+			<path>./_inc/images/default-fond.jpg</path>
 			<path>./${system.theme}/art/fond.jpg</path>
 			<pos>1 0</pos>
 			<origin>0 0</origin>

@@ -3,6 +3,7 @@
 
 	<view name="system">
 		<image name="background">
+			<path>./../images/default-fond.jpg</path>
 			<path>./../../${system.theme}/art/console.jpg</path>
 		</image>
 		<image name="background" extra="true">
@@ -11,6 +12,7 @@
 	</view>
 	<view name="basic, detailed, grid">
 		<image name="background">
+			<path>./../images/default-fond.jpg</path>
 			<path>./../../${system.theme}/art/console.jpg</path>
 		</image>
 		<image name="background" extra="true">
