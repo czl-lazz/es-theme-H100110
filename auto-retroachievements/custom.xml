@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+  <formatVersion>4</formatVersion>
+  <view name="system">
+    <text name="info1" extra="true">
+      <text>RetroAchievements</text>
+    </text>
+    <text name="info2" extra="true">
+      <text>Achievement-enabled games</text>
+    </text>
+    <text name="info9" extra="true">
+      <text>Take on challenges and earn achievements.</text>
+    </text>
+  </view>
+</theme>

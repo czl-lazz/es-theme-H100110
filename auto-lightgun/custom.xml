@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+  <formatVersion>4</formatVersion>
+  <view name="system">
+    <text name="info1" extra="true">
+      <text>Light Gun Games</text>
+    </text>
+    <text name="info2" extra="true">
+      <text>Light gun collection</text>
+    </text>
+    <text name="info9" extra="true">
+      <text>Aim, shoot, and chase a new high score.</text>
+    </text>
+  </view>
+</theme>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+  <formatVersion>4</formatVersion>
+  <view name="system">
+    <text name="info1" extra="true">
+      <text>EasyRPG</text>
+    </text>
+    <text name="info2" extra="true">
+      <text>Role-playing games</text>
+    </text>
+    <text name="info9" extra="true">
+      <text>Explore a collection of RPG adventures.</text>
+    </text>
+  </view>
+</theme>

@@ -70,7 +70,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 |auto-at4players|X|X|X|X|X|
 |auto-favorites|X|X|X|X|X|
 |auto-lastplayed|X|X|X|X|X|
+|auto-lightgun|X|X|X|X|X|
 |auto-neverplayed|X|X|X|X|X|
+|auto-retroachievements|X|X|X||X|
 |banpresto|X|||||
 |c64|X|X|X|X|X|
 |capcom|X|||||
@@ -83,6 +85,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 |cps3|X|||||
 |daphne|X|X|X|X|X|
 |dreamcast|X|X|X|X|X|
+|easyrpg|X|X|X||X|
 |fba/fbneo|X|X|X|X|X|
 |fds|X|X|X|X|X|
 |gameandwatch|X|X|X|X|X|
