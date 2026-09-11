@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+  <formatVersion>4</formatVersion>
+  <view name="system">
+    <text name="info1" extra="true">
+      <text>AI Games</text>
+    </text>
+    <text name="info2" extra="true">
+      <text>Pantas H100110</text>
+    </text>
+    <text name="info9" extra="true">
+      <text>Explore a collection of AI games.</text>
+    </text>
+  </view>
+</theme>
