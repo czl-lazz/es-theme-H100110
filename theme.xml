@@ -87,7 +87,7 @@
 		</menuText>
 		<menuText name="menutext">
 			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
-			<fontSize>0.023</fontSize>
+			<fontSize>0.045</fontSize>
 			<color>DFDCDC</color>
 			<separatorColor>555555FF</separatorColor>
 			<selectorColor>006ca3</selectorColor>
